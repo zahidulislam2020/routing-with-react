@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Zen+Dots&display=swap');
+
+h1 {
+  text-align: center;
+  margin-top: 100px;
+  font-family: 'Dancing Script', cursive;
+  font-size: 80px;
+  color: rgb(255, 31, 143);
+}
